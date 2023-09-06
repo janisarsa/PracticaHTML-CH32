@@ -1,0 +1,49 @@
+#logo-facebook {
+    background-color: rgb(181, 197, 230);
+    
+}
+#div-facebook {
+    background-color: rgb(181, 197, 230);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+#logo-messenger {
+    background-color: rgb(79, 198, 202);
+}
+#div-messenger {
+    background-color: rgb(112, 214, 218);
+    font-size: large;
+    font-family: fantasy;
+    text-align: right;
+}
+#logo-instagram {
+    background-color: rgb(255, 255, 255);
+    width: 30vw;
+}
+#div-instagram {
+    background-color: rgb(255, 255, 255);
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;   
+}
+#logo-youtube {
+    background-color: rgb(228, 124, 124);
+    width: 30vw;
+}
+#div-youtube {
+    background-color: rgb(228, 124, 124);
+    font-size: large;
+    font-family: sans-serif;
+    text-align: right;
+}
+#logo-whatsapp {
+    background-color: chartreuse;
+    width: 30vw;
+}
+#div-whatsapp {
+    background-color: chartreuse;
+    font-size: large;
+    font-family: monospace;
+    text-align: left;
+}
